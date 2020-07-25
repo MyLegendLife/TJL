@@ -1,0 +1,10 @@
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\bin\Debug\netcoreapp3.1\TJL.OAuth.Server.exe
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\TJL.OAuth.Server.csprojAssemblyReference.cache
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\TJL.OAuth.Server.AssemblyInfoInputs.cache
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\TJL.OAuth.Server.AssemblyInfo.cs
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\TJL.OAuth.Server.RazorTargetAssemblyInfo.cache
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\staticwebassets\TJL.OAuth.Server.StaticWebAssets.Manifest.cache
+D:\Projects\GitHubProjects\TJL\TJL.OAuth\TJL.OAuth.Server\obj\Debug\netcoreapp3.1\staticwebassets\TJL.OAuth.Server.StaticWebAssets.xml
